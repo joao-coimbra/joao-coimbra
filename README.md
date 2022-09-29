@@ -1,10 +1,13 @@
-### Hey there! Nice to meet you! 👋👨‍💻
-
-I'm João! I'm a software engineer
+## Hey there! Nice to meet you! 👋👨‍💻
 
 <hr/>
 
-Languages and Tools:
+### ::rocket:: About me
+I'm João! I'm a software engineer passionate about making evolution with my lines of code
+
+<hr/>
+
+### ::hammer:: Languages and Tools:
 <div>
   <img width='36' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
   <img width='36' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html">
