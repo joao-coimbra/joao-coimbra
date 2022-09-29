@@ -1,7 +1,7 @@
 ## Hey there! Nice to meet you! 👋👨‍💻
 
 ### :rocket: About me
-I'm João! I'm a software engineer passionate about making evolution with my lines of code
+I'm João! I'm a software engineer passionate about making evolution with my code lines
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
