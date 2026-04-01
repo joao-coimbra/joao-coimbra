@@ -1,37 +1,44 @@
-# 👋 Hey, I'm João Coimbra
+## 👋 Hey, I'm João Coimbra
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://joaocoimbra.dev)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://joaocoimbra.link/linkedin)
 
+Software developer building robust solutions around architecture and IoT data communication. I like to understand the problem and shape it before writing code. I build and maintain TypeScript libraries, including an MQTT client, and create solid logic for systems in this space. I usually work close to the core, but can take things all the way to complete solutions across frontend, mobile, and desktop when needed.
+
+When I'm not coding, I'm playing chess or watching sci-fi. ♟️🚀
+
+---
+
 ## 💻 What I Do
 
-- 🎨 Building modern interfaces with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-- 🖥️ Cross-platform desktop apps with ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
-- ⚡ High-performance backends using ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) and ![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-- 🎭 Animations and interactions with ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=gsap&logoColor=white)
-- 🤖 Process automation and optimization with ![Artifical Language](https://img.shields.io/badge/AI-030303.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgY29sb3I9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgY2xhc3M9IgogICAgICAgICAgICAgICAgICAgICAgICAgIHNpemUtMTIKICAgICAgICAgICAgICAgICAgICAgICAgICBsZzpzaXplLTQ4CiAgICAgICAgICAgICAgICAgICAgICAgICI+PHBhdGggZD0iTTcuNDUyODQgMi43MTI2NkM3LjgyNzYgMS43NjI0NCA5LjE3MjQgMS43NjI0NSA5LjU0NzE2IDIuNzEyNjdMMTAuNzA4NSA1LjY1NzMyQzEwLjgyMjkgNS45NDc0MyAxMS4wNTI2IDYuMTc3MDcgMTEuMzQyNyA2LjI5MTQ4TDE0LjI4NzMgNy40NTI4NEMxNS4yMzc2IDcuODI3NiAxNS4yMzc2IDkuMTcyNCAxNC4yODczIDkuNTQ3MTZMMTEuMzQyNyAxMC43MDg1QzExLjA1MjYgMTAuODIyOSAxMC44MjI5IDExLjA1MjYgMTAuNzA4NSAxMS4zNDI3TDkuNTQ3MTYgMTQuMjg3M0M5LjE3MjQgMTUuMjM3NiA3LjgyNzYgMTUuMjM3NiA3LjQ1Mjg0IDE0LjI4NzNMNi4yOTE0OCAxMS4zNDI3QzYuMTc3MDcgMTEuMDUyNiA1Ljk0NzQzIDEwLjgyMjkgNS42NTczMiAxMC43MDg1TDIuNzEyNjYgOS41NDcxNkMxLjc2MjQ0IDkuMTcyNCAxLjc2MjQ1IDcuODI3NiAyLjcxMjY3IDcuNDUyODRMNS42NTczMiA2LjI5MTQ4QzUuOTQ3NDMgNi4xNzcwNyA2LjE3NzA3IDUuOTQ3NDMgNi4yOTE0OCA1LjY1NzMyTDcuNDUyODQgMi43MTI2NloiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGQ9Ik0xNi45MjQ1IDEzLjM5MTZDMTcuMTMwNSAxMi44Njk1IDE3Ljg2OTUgMTIuODY5NSAxOC4wNzU1IDEzLjM5MTZMMTguOTc2MSAxNS42NzUzQzE5LjAzOSAxNS44MzQ4IDE5LjE2NTIgMTUuOTYxIDE5LjMyNDcgMTYuMDIzOUwyMS42MDg0IDE2LjkyNDVDMjIuMTMwNSAxNy4xMzA1IDIyLjEzMDUgMTcuODY5NSAyMS42MDg0IDE4LjA3NTVMMTkuMzI0NyAxOC45NzYxQzE5LjE2NTIgMTkuMDM5IDE5LjAzOSAxOS4xNjUyIDE4Ljk3NjEgMTkuMzI0N0wxOC4wNzU1IDIxLjYwODRDMTcuODY5NSAyMi4xMzA1IDE3LjEzMDUgMjIuMTMwNSAxNi45MjQ1IDIxLjYwODRMMTYuMDIzOSAxOS4zMjQ3QzE1Ljk2MSAxOS4xNjUyIDE1LjgzNDggMTkuMDM5IDE1LjY3NTMgMTguOTc2MUwxMy4zOTE2IDE4LjA3NTVDMTIuODY5NSAxNy44Njk1IDEyLjg2OTUgMTcuMTMwNSAxMy4zOTE2IDE2LjkyNDVMMTUuNjc1MyAxNi4wMjM5QzE1LjgzNDggMTUuOTYxIDE1Ljk2MSAxNS44MzQ4IDE2LjAyMzkgMTUuNjc1M0wxNi45MjQ1IDEzLjM5MTZaIiBmaWxsPSJjdXJyZW50Q29sb3IiIG9wYWNpdHk9IjAuNSI+PC9wYXRoPjwvc3ZnPg==)
+- ⚡ Backend systems — HTTP servers, domain modeling, event-driven architecture, IoT infrastructure and database design, following **DDD** and **Clean Architecture**
+- 🎨 Interfaces with **React** and **TailwindCSS**
+- 📱 Mobile apps with **React Native** and **Expo**
+- 🖥️ Cross-platform desktop apps with **Tauri** and **Electron**
+- 🎭 Animations and interactions with **GSAP**
+- 🤖 Process automation with AI
 
-## 🎯 Current Focus
+---
 
-> Building high-performance, type-safe applications with modern tools
+## 🛠️ Stack
 
-**Frontend & Desktop**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=gsap&logoColor=white)
-
-**Backend & Runtime**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
-
-**Tools & Environment**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-8B5CF6?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zed](https://img.shields.io/badge/Zed-084CCF.svg?style=flat-square&logo=zedindustries&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
@@ -41,9 +48,3 @@
 **💬 Always open to collaborate on interesting projects**
 
 </div>
-
-<!-- 
-[![Transforming code into solutions, one byte at a time](https://raw.githubusercontent.com/joao-coimbra/joao-coimbra/main/images/AGYB.png)][def]
-
-[def]: https://joaocoimbra.dev
--->
