@@ -5,7 +5,7 @@
 
 Software developer building robust solutions around architecture and IoT data communication. I like to understand the problem and shape it before writing code. I build and maintain TypeScript libraries, including an MQTT client, and create solid logic for systems in this space. I usually work close to the core, but can take things all the way to complete solutions across frontend, mobile, and desktop when needed.
 
-When I'm not coding, I'm playing chess or watching sci-fi. ♟️ 🚀
+When I'm not coding, I'm playing chess or watching sci-fi. ♟️🚀
 
 ---
 
