@@ -2,8 +2,9 @@
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://joaocoimbra.dev)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://joaocoimbra.link/linkedin)
+[<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black" />](https://buymeacoffee.com/jcoimbra)
 
-Software developer building robust solutions around architecture and IoT data communication. I like to understand the problem and shape it before writing code. I build and maintain TypeScript libraries, including an MQTT client, and create solid logic for systems in this space. I usually work close to the core, but can take things all the way to complete solutions across frontend, mobile, and desktop when needed.
+Independent Developer building robust solutions around architecture and IoT data communication. I work at Linear and actively develop independent projects. I like to understand the problem and shape it before writing code. I build and maintain TypeScript libraries, including an MQTT client, and create solid logic for systems in this space. I usually work close to the core, but can take things all the way to complete solutions across frontend, mobile, and desktop when needed.
 
 When I'm not coding, I'm playing chess or watching sci-fi. ♟️🚀
 
@@ -17,6 +18,7 @@ When I'm not coding, I'm playing chess or watching sci-fi. ♟️🚀
 - 🖥️ Cross-platform desktop apps with **Tauri** and **Electron**
 - 🎭 Animations and interactions with **GSAP**
 - 🤖 Process automation with AI
+- 📦 Open-source TypeScript libraries and tools
 
 ---
 
